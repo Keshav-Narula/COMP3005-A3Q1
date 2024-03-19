@@ -8,7 +8,7 @@ Author : Keshav Narula
 - Change the values of the url, user and password variables, in the Main.java application to match your PostgreSQL database
 
  # Instructions to run Application
-- Open the keep running the PostgreSQL server with the database where the Students relation is stored
+- Ensure the PostgreSQL server with the database where the Students relation is stored
 - Open and run the Main.java application
 - Change the parameters of the function calls in main as desired
  
