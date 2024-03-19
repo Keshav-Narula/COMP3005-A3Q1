@@ -3,7 +3,7 @@ Author : Keshav Narula
 
 # Instructions for Setup
 - Create Database in PostgreSQL
-- To create and populate the Students relation as per the schema, run the the queries in the DB scripts folder
+- To create and populate the Students relation to the specified schema, run the query in Database Creation Scripts folder, in the query tool of your database
 - Download and open this prooject folder containing the application
 - Change the values of the url, user and password variables, in the Main.java application to match your PostgreSQL database
 
